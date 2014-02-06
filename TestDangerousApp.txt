@@ -1,0 +1,3 @@
+02-06 12:57:20.459    2410-2410/? I/Lab-Permissions? Entered startBookMarksActivity()
+02-06 12:57:21.249    2410-2410/? I/Lab-Permissions? Entered startGoToDangerousActivity()
+02-06 12:57:22.619    2410-2410/? I/Lab-Permissions? Entered startDangerousActivity()
